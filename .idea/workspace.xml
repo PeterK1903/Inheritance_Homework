@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96285489-ee1a-4c1a-acf6-c5fdfeff3d56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXO2lLiogiFgrSTmhxHAA2j2v0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in Inheritance_Homework">
+    <configuration name="All in Inheritance_Homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Inheritance_Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.canRaiseSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Inheritance_Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <option name="METHOD_NAME" value="canRaiseSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.canPayDirectorBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Inheritance_Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+      <option name="METHOD_NAME" value="canPayDirectorBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Inheritance_Homework" />
+        <item itemvalue="JUnit.ManagerTest.canPayDirectorBonus" />
+        <item itemvalue="JUnit.EmployeeTest.canRaiseSalary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96285489-ee1a-4c1a-acf6-c5fdfeff3d56" name="Default Changelist" comment="" />
+      <created>1584981766704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584981766704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1080" height="600" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584988892217">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.721/-1920.23.1920.1057@0.23.1280.721" timestamp="1584988892217" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1584986640571">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1584986640571" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584996150768">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1584988516985" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584990906595" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584996150768" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584996150765">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1584988516982" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584990906593" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584996150765" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584996150764">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1584988516981" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584990906592" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584996150764" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584996150767">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1584988516983" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584990906594" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584996150767" />
+    <state x="402" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1584984567288">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="402" y="23" key="refactoring.ChangeSignatureDialog/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1584984567288" />
+  </component>
+</project>
